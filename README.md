@@ -9,6 +9,8 @@ The list of all ***traits and features*** of this game is quite long, but here a
  - tweakable stats of the enemies and weapons  
  - adjustable game balance…
 
+[Check out the gameplay here.](https://youtu.be/WE6O2VQ0vOI)
+
 I also pride myself on creating ***extremely realistic levels*** that completely immerse the player into the game's world.
 
 I believe that this project is rather a presentation of my infinite passion for games, since I really spent a whole lot of time perfecting the code and levels' visuals in particular. 
